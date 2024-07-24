@@ -1,6 +1,7 @@
 # **Victor Manuel Torres Alonso**
 # **Business case: Cybersecurity Data Analyst of the DNS vulnerabitlies**
-# **Bootcamp Análisis y Visualización de Datos**
+# **Bootcamp Análisis y Visualización de Datos virtual**
+# **Grupo 45**
 
 ## Fuente:  
 
